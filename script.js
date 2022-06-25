@@ -16,4 +16,4 @@ else if (calculate == '*'){
 else {
     result = firstnumber / secondnumber;
 }
-console.log(`${firstnumber} ${calculate} ${secondnumber} = ${result}`);
+alert(`${firstnumber} ${calculate} ${secondnumber} = ${result}`);
